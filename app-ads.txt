@@ -1,0 +1,6 @@
+# app-ads.txt for the "One Move" Android game.
+# Replace the publisher ID below with YOUR AdMob publisher ID, found in AdMob under Settings > Account information
+# (it looks like pub-1234567890123456). Keep the "google.com, ..., DIRECT, f08c47fec0942fa0" format exactly.
+# The ID below is the one already used for the web version of this game; if your AdMob and AdSense accounts
+# are the same Google account it is correct, otherwise replace it.
+google.com, pub-7196733352173752, DIRECT, f08c47fec0942fa0
